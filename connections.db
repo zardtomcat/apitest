@@ -1,0 +1,25 @@
+{
+  "servers": [
+    {
+      "id": 1,
+      "title": "london north"
+    },
+    {
+      "id": 2,
+      "title": "london south"
+    }
+  ],
+    "connections": [
+    {
+      "server": 1,
+      "link": 2
+    },
+    {
+      "server": 2,
+      "link": 3
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
